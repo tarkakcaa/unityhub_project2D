@@ -1,0 +1,50 @@
+# Unity için standart .gitignore
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Mm]emoryCaptures/
+[Ll]ogs/
+UserSettings/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.DS_Store
+.DS_Store
+*.apk
+*.aab
+*.zip
+*.rar
+*.tar.gz
+*.xcworkspace
+__MACOSX/
+
+# JetBrains Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Collab
+.collab/
+
+# Auto-generated
+ExportedObj/
+.consulo/
+*.orig
+
+# Git
+*.orig
